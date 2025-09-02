@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016191145061",
+    "project_id": "lookingin",
+    "storage_bucket": "lookingin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016191145061:android:b99ea6d2e3ac28fab8228c",
+        "android_client_info": {
+          "package_name": "com.example.lookingin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiPng-zlTIb0F7CxmPwA1XUSc90eKRMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
